@@ -5,6 +5,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=chhaytheanly&label=Views&color=3B82F6&style=flat-square)](https://github.com/chhaytheanly)
 
 </div>
+[![Debian](https://shields.io)](https://www.debian.org)
+
 
 <h1 align="center">Chhaythean LY</h1>
 
