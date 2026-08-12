@@ -6,10 +6,10 @@
        ',$$P       ,ggs.     `$$b:         Work Status: AI Engineer
        `d$$'     ,$P"'   .    $$$          Others: I enjoy doing Backend Development and Dev/ML Ops
         $$P      d$'     ,    $$P          Distro: Debian (Trixie)
-        $$:      $$.   -    ,d$$'          IDE: VSCode and Zed Enjoyer
+        $$:      $$.   -    ,d$$'          IDE: Neovim, VSCode and Zed Enjoyer
         $$;      Y$b._   _,d$P'            
         Y$$.    `.`"Y$$$$P"'               Quote: 
-        `$$b      "-.__                      Just do to see how far you can go!
+        `$$b      "-.__                      Just do it to see how far you can go!
          `Y$$b                                 
           `Y$$.                                
             `$$b.                     
